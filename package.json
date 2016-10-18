@@ -1,0 +1,19 @@
+{
+  "name": "passthru",
+  "version": "0.1.0",
+  "description": "Persist query parameters on links throughout your page(s)",
+  "main": "passthru.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kylearch/jquery-passthru.git"
+  },
+  "author": "Kyle Arch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kylearch/jquery-passthru/issues"
+  },
+  "homepage": "https://github.com/kylearch/jquery-passthru#readme"
+}
