@@ -1,5 +1,5 @@
 {
-  "name": "passthru",
+  "name": "query-passthru",
   "version": "0.1.0",
   "description": "Persist query parameters on links throughout your page(s)",
   "main": "passthru.js",
